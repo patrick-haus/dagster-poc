@@ -22,3 +22,5 @@ WORKDIR /iris_analysis/
 
 # Expose the port that your Dagster instance will run on
 EXPOSE 80
+
+# needs to run dagster

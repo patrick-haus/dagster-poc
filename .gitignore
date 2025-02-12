@@ -1,0 +1,13 @@
+.DS_Store
+/.telemetry
+*.pyc
+/dagster-etl-tutorial/dagster_tutorial/bin
+/dagster-etl-tutorial/dagster_tutorial/lib
+dagster-etl-tutorial/dagster_tutorial/pyvenv.cfg
+/storage
+/history
+/gcs/venv
+/gcs/tmpku3_nzeg
+/dagster-etl-tutorial/getting_started_etl_tutorial/venv
+/dagster-etl-tutorial
+/schedules
